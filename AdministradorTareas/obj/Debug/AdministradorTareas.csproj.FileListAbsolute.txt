@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\PROYECTO SO\AdministradorTareas\AdministradorTareas\bin\Debug\AdministradorTareas.exe.config
+C:\Users\DELL\Desktop\PROYECTO SO\AdministradorTareas\AdministradorTareas\bin\Debug\AdministradorTareas.exe
+C:\Users\DELL\Desktop\PROYECTO SO\AdministradorTareas\AdministradorTareas\bin\Debug\AdministradorTareas.pdb
+C:\Users\DELL\Desktop\PROYECTO SO\AdministradorTareas\AdministradorTareas\bin\Debug\MetroFramework.Design.dll
+C:\Users\DELL\Desktop\PROYECTO SO\AdministradorTareas\AdministradorTareas\bin\Debug\MetroFramework.dll
+C:\Users\DELL\Desktop\PROYECTO SO\AdministradorTareas\AdministradorTareas\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\DELL\Desktop\PROYECTO SO\AdministradorTareas\AdministradorTareas\obj\Debug\AdministradorTareas.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\PROYECTO SO\AdministradorTareas\AdministradorTareas\obj\Debug\AdministradorTareas.Properties.Resources.resources
+C:\Users\DELL\Desktop\PROYECTO SO\AdministradorTareas\AdministradorTareas\obj\Debug\AdministradorTareas.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\PROYECTO SO\AdministradorTareas\AdministradorTareas\obj\Debug\AdministradorTareas.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\PROYECTO SO\AdministradorTareas\AdministradorTareas\obj\Debug\AdministradorTareas.csproj.CopyComplete
+C:\Users\DELL\Desktop\PROYECTO SO\AdministradorTareas\AdministradorTareas\obj\Debug\AdministradorTareas.exe
+C:\Users\DELL\Desktop\PROYECTO SO\AdministradorTareas\AdministradorTareas\obj\Debug\AdministradorTareas.pdb
